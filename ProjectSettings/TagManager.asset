@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Field
+  - White_Enemy
+  - Beam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - IgnoreRayCast
+  - Bit
+  - Timer
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: TImer
+    uniqueID: 1965419565
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SideBar
+    uniqueID: 2527617707
+    locked: 0
+  - name: bit
+    uniqueID: 2443531783
+    locked: 0
+  - name: UI
+    uniqueID: 2209029587
+    locked: 0
